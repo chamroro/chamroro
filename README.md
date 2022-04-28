@@ -23,7 +23,7 @@
   </tbody>
 </table>
 
-<img src="1.jpg" width="100%"/>
+
 <br />
 <br>
 <h2> 👩🏻‍💻 TeckStrack </h2>
@@ -47,5 +47,6 @@
 
 ![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=chamroro&show_icons=true&hide_border=true)
 <img aglin="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamroro&layout=compact&langs_count=8"/>
-
-
+  <br>
+<h2> 🛋 I'm working at  </h2>
+<img src="1.jpg" width="100%"/>
