@@ -2,9 +2,7 @@
 <h1 align="center"> Hello! Nice to see you 🌞 </h1>
 <h5 align="center"> If you want to contact me, visit <a href="https://www.instagram.com/haeunkkim/">Instagram </a></h5>
 
-![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=chamroro&show_icons=true&hide_border=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamroro&layout=compact&langs_count=8"/>
-<img src="1.jpg" width="100%"/>
+
 
 <h2> 🔥 My Positions </h2>
 <h5> click the images! </h5>
@@ -27,7 +25,7 @@
   </tbody>
 </table>
 
-
+<img src="1.jpg" width="100%"/>
 <br />
 <h2> 👩🏻‍💻 TeckStrack </h2>
 
@@ -48,5 +46,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br/>
 
+![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=chamroro&show_icons=true&hide_border=true)
+<img aglin="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamroro&layout=compact&langs_count=8"/>
 
 
