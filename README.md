@@ -2,20 +2,21 @@
 <h1> Hello! Nice to see you 🌞 </h1>
 <img src="1.jpg" width="100%"/>
 
-<h2> 🔥 My Positions</h2>
+<h2> 🔥 My Positions </h2>
+<h5> click the images! </h5>
 <table>
   <tbody>
     <tr>
       <td>
         <a href="https://www.notion.so/SODA-dca6be8fff894261bb8880318303e3a7" title="소다 소개 페이지">
           <h3> Soda Developer team leader (2021.06~)</h3>
-          <img align="center" src="2.jpeg" width="450" alt-text="소다 0기 사진">
+          <img align="center" src="2.jpeg" width="450px" alt-text="소다 0기 사진">
         </a>
       </td>
       <td>
         <a href="https://csee.handong.edu/2021/02/slab-%EC%86%8C%EA%B0%9C-%EA%B9%80%EA%B4%91-%EC%9E%A5%EC%86%8C%EC%97%B0-%EA%B5%90%EC%88%98%EB%8B%98-%EB%9E%A9%EC%8B%A4-wa-lab/" title="랩실 소개 article">
           <h3> Walab team Member (2021,04~)</h3>
-          <img align="center" src="3.jpg" width="450" alt-text="와랩 팀 사진">
+          <img align="center" src="3.jpg" width="450px" alt-text="와랩 팀 사진">
         </a>
       </td>
     </tr>
