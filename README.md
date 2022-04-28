@@ -1,6 +1,6 @@
 
 <h1> Hello! Nice to see you 🌞 </h1>
-
+<img src="1.jpeg" width="100%"/>
 <!-- <p>
   <em>
     <h3>
@@ -36,4 +36,4 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br/>
 
-<img src="1.jpeg">
+
