@@ -1,6 +1,6 @@
 
 <h1> Hello! Nice to see you 🌞 </h1>
-<img src="1.jpeg" width="100%"/>
+<img src="1.jpg" width="100%"/>
 <!-- <p>
   <em>
     <h3>
