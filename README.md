@@ -10,7 +10,7 @@
       <td>
         <a href="https://www.notion.so/SODA-dca6be8fff894261bb8880318303e3a7" title="소다 소개 페이지">
           <h3> Soda Developer team leader (2021.06~)</h3>
-          <img align="center" src="2.jpeg" width="100%" alt-text="소다 0기 사진">
+          <img align="center" src="2.jpeg" width="600px" alt-text="소다 0기 사진">
         </a>
       </td>
       <td>
