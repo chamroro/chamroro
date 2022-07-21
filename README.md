@@ -9,7 +9,7 @@
   <tbody>
     <tr>
       <td>
-          <h3> Soda Developer team leader (2021.06~)</h3>
+          <h3> Soda Developer team leader 0th (2021.06~)</h3>
           <h6><a href="https://www.notion.so/SODA-dca6be8fff894261bb8880318303e3a7" title="소다 소개 페이지">📍 소다 소개 페이지 보러가기</a></h6>
           <img align="center" src="3.jpg" width="500px" alt-text="소다 0기 사진">
       </td>
