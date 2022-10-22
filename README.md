@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! Nice to see you 🌞 </h1>
-<h5 align="center"> If you want to contact me, visit <a href="https://www.instagram.com/haeun_kim_/">Instagram </a></h5>
+<h5 align="center"> If you want to contact me, visit <a href="https://www.instagram.com/haeunkim.on/">Instagram </a></h5>
 
-
+ <a href="https://www.kimhaeun.com">kimhaeun.com</a>
 <br>
 <h2> 🔥 My Positions </h2>
 <h5> I belong here now! </h5>
