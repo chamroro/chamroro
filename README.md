@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! Nice to see you 🌞 </h1>
-<h2><a href="https://www.kimhaeun.com">kimhaeun.com</a></h2>
+<a align="center" href="https://www.kimhaeun.com">kimhaeun.com</a>
 <h5 align="center"> If you want to contact me, visit <a href="https://www.instagram.com/haeunkim.on/">Instagram </a></h5>
 
 
