@@ -26,7 +26,7 @@
 
 <br />
 <br>
-<h2> 👩🏻‍💻 TechStrack </h2>
+<h2> 👩🏻‍💻 TechStack </h2>
 
 <div align=center> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
