@@ -18,8 +18,8 @@
 ## 🔥 Experience
 
 ### 🏃‍♀️ OUTLINE (GPS ART Running App) — PM & Fullstack Developer
-- Led five cross-functional sprints using **AGILE methodologies**
-- Improved app performance by **30%** through **data migration**
+- Actively contributed to five cross-functional sprints using **AGILE methodologies**
+- Developed an **admin service** to enhance app management and team productivity
 - Organized running events, reaching **1,000+ active users**
 - Secured **40M KRW** in startup funding
 
@@ -28,9 +28,9 @@
 - Presented at **Microsoft Korea** and **National Industry-Academia Expo**
 - First Author of **"Individualized Therapeutic Approaches for Children with ADHD in a Virtual Reality Environment"** (RITA 2024)
 
-### 🚀 Hackathon Organizer — Azit
+### 🚀 Hackathon Director — Azit
 - Led hackathon series **Norithon & Dreamlandthon**, raising **10M+ KRW**
-- Developed event submission platforms using **React & Firebase**
+- Developed event webpage using **React & Firebase**
 
 ### 🖥️ Web&App Lab (WALAB) — Intern
 - Built **3 full-stack services** using **Spring & Flutter**
