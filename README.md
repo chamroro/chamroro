@@ -1,56 +1,60 @@
-<h1 align="center"> Hello! Nice to see you 🌞 </h1>
-<h4  align="center"><a href="https://www.kimhaeun.com">kimhaeun.com</a></h4>
-<h5 align="center"> If you want to contact me, visit <a href="https://www.instagram.com/haeunkim.on/">Instagram </a></h5>
+# 👋 Hi, I'm Haeun Kim
 
+### 📍 Seoul, South Korea | 📧 haeunkim.on@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/haeunkkim/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/chamroro)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://kimhaeun.com/)  
 
-<br>
-<!-- <h2> 🔥 My Positions </h2>
-<h5> I belong here now! </h5>
-<table>
-  <tbody>
-    <tr>
-      <td>
-          <h3> Soda Developer team leader 0th (2021.06~)</h3>
-          <h6><a href="https://www.notion.so/SODA-dca6be8fff894261bb8880318303e3a7" title="소다 소개 페이지">📍 소다 소개 페이지 보러가기</a></h6>
-          <img align="center" src="3.jpg" width="500px" alt-text="소다 0기 사진">
-      </td>
-      <td>
-          <h3> Walab team Member (2021.04~)</h3>
-          <h6><a href="https://csee.handong.edu/2021/02/slab-%EC%86%8C%EA%B0%9C-%EA%B9%80%EA%B4%91-%EC%9E%A5%EC%86%8C%EC%97%B0-%EA%B5%90%EC%88%98%EB%8B%98-%EB%9E%A9%EC%8B%A4-wa-lab/" title="랩실 소개 article">📍 와랩 소개 아티클 보러가기</a></h6>
-          <img align="center" src="2.jpeg" width="500px" alt-text="와랩 팀 사진">
-      </td>
-    </tr>
-  </tbody>
-</table>
- -->
+---
 
-<br />
-<br>
-<h2> 👩🏻‍💻 TechStack </h2>
+## 🚀 About Me
+🔹 AI & Computer Science Advanced Major at **Handong Global University**  
+🔹 Passionate about **Web/App Development, Product Management, and AI Research**  
+🔹 Previously at **Apple Developer Academy @POSTECH**  
+🔹 Interested in **Software Engineering, UX/UI, and Startup Ecosystem**  
 
-<div align=center> 
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
-<br>
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <br>
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <br>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<br/>
+---
 
-![Chamroro's github stats](https://github-readme-stats.vercel.app/api?username=chamroro&show_icons=true&hide_border=true)
-<img aglin="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamroro&layout=compact&langs_count=8"/>
-  <br>
-  
+## 🔥 Experience
 
+### 🏃‍♀️ OUTLINE (GPS ART Running App) — PM & Fullstack Developer
+- Led five cross-functional sprints using **AGILE methodologies**
+- Improved app performance by **30%** through **data migration**
+- Organized running events, reaching **1,000+ active users**
+- Secured **40M KRW** in startup funding
+
+### 🏥 Social & Interactive Robotics Lab — Research Assistant
+- Developed **VR-based ADHD treatment solutions**, improving focus by **30%**
+- Presented at **Microsoft Korea** and **National Industry-Academia Expo**
+- First Author of **"Individualized Therapeutic Approaches for Children with ADHD in a Virtual Reality Environment"** (RITA 2024)
+
+### 🚀 Hackathon Organizer — Azit
+- Led hackathon series **Norithon & Dreamlandthon**, raising **10M+ KRW**
+- Developed event submission platforms using **React & Firebase**
+
+### 🖥️ Web&App Lab (WALAB) — Intern
+- Built **3 full-stack services** using **Spring & Flutter**
+- Established a collaborative dev culture with **code reviews & sprint planning**
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+
+---
+
+## 🏆 Achievements
+- **Pre-Startup Package** - Konkuk University (Outline) (2024)
+- **TOPCIT Software Capability Certification** - Top Performer (2024)
+- **SW Festival Awards** - 1st Place (Marshmallow), 2nd Place (LittleDrop, Waco)
+
+---
+
+## 📫 Get in Touch
+💌 Feel free to reach out via **[Email](mailto:haeunkim.on@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/haeunkkim/)**! 😊
