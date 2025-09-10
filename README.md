@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Haeun Kim
 
 ### 📍 Seoul, South Korea | 📧 haeunkim.on@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/haeunkkim/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/chamroro)  
-[![BLOG](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://kimhaeun.com/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/haeunkkim/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoColor=white)](https://github.com/chamroro)  [![BLOG](https://img.shields.io/badge/-Blog-fd234s?style=flat-square&logo=Blog&logoColor=white)](https://kimhaeun.com/)  
 
 ---
 
