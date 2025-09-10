@@ -3,7 +3,7 @@
 ### 📍 Seoul, South Korea | 📧 haeunkim.on@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/haeunkkim/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/chamroro)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://kimhaeun.com/)  
+[![BLOG](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://kimhaeun.com/)  
 
 ---
 
@@ -16,6 +16,12 @@
 ---
 
 ## 🔥 Experience
+
+### 🥕 Daangn — Product Manager & Developer
+- Rolled out ~40 product improvements and experimental features in rapid iterations, driving service enhancement and UX growth (e.g., Karrot Alba home nudge message experiments)
+- Improved developer experience and team efficiency by automating GitHub Actions release notes and adding custom ESLint rules
+- Enhanced service stability and performance through Playwright-based e2e/scenario tests, CI/CD pipeline optimization, and library performance analysis & migration
+- Strengthened error debugging by inserting patch-package logging and leveraging Sentry breadcrumbs for root-cause analysis
 
 ### 🏃‍♀️ OUTLINE (GPS ART Running App) — PM & Fullstack Developer
 - Actively contributed to five cross-functional sprints using **AGILE methodologies**
