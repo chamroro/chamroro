@@ -17,7 +17,7 @@
 
 ## 🔥 Experience
 
-### 🥕 Daangn — Product Manager & Developer
+### 🥕 Daangn — Frontend Engineer (Intern)
 - Rolled out ~40 product improvements and experimental features in rapid iterations, driving service enhancement and UX growth (e.g., Karrot Alba home nudge message experiments)
 - Improved developer experience and team efficiency by automating GitHub Actions release notes and adding custom ESLint rules
 - Enhanced service stability and performance through Playwright-based e2e/scenario tests, CI/CD pipeline optimization, and library performance analysis & migration
