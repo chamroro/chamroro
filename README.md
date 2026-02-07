@@ -1,64 +1,47 @@
-# 👋 Hi, I'm Haeun Kim
+### **⚡️ Thinking UX, Engineering Value**
+> 안녕하세요, Product Engineer 김하은(Hani)입니다. 🙂 <br>
+저는 제품을 깊이 애착하고, 그 애정을 동력 삼아 집요하게 고민하는 사람입니다. <br>
+성장을 멈추지 않는 엔지니어로서, 사람들과 함께 배우고 나누며 더 단단하고 깊이 있는 결과물을 만들어가고 싶습니다.
 
-### 📍 Seoul, South Korea | 📧 haeunkim.on@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/haeunkkim/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoColor=white)](https://github.com/chamroro)  [![BLOG](https://img.shields.io/badge/-Blog-fd234s?style=flat-square&logo=Blog&logoColor=white)](https://kimhaeun.com/)  
+### ABOUT ME
+🤖 **`Robot Operations Web Platform`** | 네이버 1784 사옥의 로봇 제어 웹 서비스(RDM)를 설계 및 풀스택 개발하고 있습니다. <br>
 
----
+🥕 **`Product-Minded`** | 당근알바 서비스에서 40여 개의 피처를 배포하며 데이터 기반의 UX 개선을 경험했습니다.<br>
 
-## 🚀 About Me
-🔹 AI & Computer Science Advanced Major at **Handong Global University**  
-🔹 Passionate about **Web/App Development, Product Management, and AI Research**  
-🔹 Previously at **Apple Developer Academy @POSTECH**  
-🔹 Interested in **Software Engineering, UX/UI, and Startup Ecosystem**  
+🍎 **`Apple Eco-system`** | Apple Developer Academy를 수료하고, KWDC 오거나이저로 활동하며 Apple 생태계에 기여합니다.<br>
 
----
+🏃‍♀️ **`Entrepreneurship`** | GPS 아트 러닝 서비스 'OUTLINE'을 개발 및 운영하며 1,000명 이상의 유저를 확보하고 예비창업패키지에 선정되었습니다.<br>
 
-## 🔥 Experience
+🏥 **`HCI Research`** | 로보틱스 연구실 SIRLAB에서 VR 기반 ADHD 훈련 프로그램 연구로 RITA 2024 학회 제1저자 논문을 발표했습니다.<br>
 
-### 🥕 Daangn — Frontend Engineer (Intern)
-- Rolled out ~40 product improvements and experimental features in rapid iterations, driving service enhancement and UX growth (e.g., Karrot Alba home nudge message experiments)
-- Improved developer experience and team efficiency by automating GitHub Actions release notes and adding custom ESLint rules
-- Enhanced service stability and performance through Playwright-based e2e/scenario tests, CI/CD pipeline optimization, and library performance analysis & migration
-- Strengthened error debugging by inserting patch-package logging and leveraging Sentry breadcrumbs for root-cause analysis
+🚀 **`Hackathon Director`** | 대학 연합 해커톤 시리즈 'Norithon & Dreamlandthon'을 기획하고 운영하며 IT 협업의 장을 만들었습니다. <br>
 
-### 🏃‍♀️ OUTLINE (GPS ART Running App) — PM & Fullstack Developer
-- Actively contributed to five cross-functional sprints using **AGILE methodologies**
-- Developed an **admin service** to enhance app management and team productivity
-- Organized running events, reaching **1,000+ active users**
-- Secured **40M KRW** in startup funding
+🎓 **`Tech Mentor & Educator`** | 멋쟁이사자처럼 프론트엔드 멘토, SODA 테크멘토, SW 교육봉사단 활동을 통해 지식을 공유하며 함께 성장하고자 하였습니다. <br>
 
-### 🏥 Social & Interactive Robotics Lab — Research Assistant
-- Developed **VR-based ADHD treatment solutions**, improving focus by **30%**
-- Presented at **Microsoft Korea** and **National Industry-Academia Expo**
-- First Author of **"Individualized Therapeutic Approaches for Children with ADHD in a Virtual Reality Environment"** (RITA 2024)
+<br>
 
-### 🚀 Hackathon Director — Azit
-- Led hackathon series **Norithon & Dreamlandthon**, raising **10M+ KRW**
-- Developed event webpage using **React & Firebase**
+### Tech Stack
+**Frontend & Mobile**<br><br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### 🖥️ Web&App Lab (WALAB) — Intern
-- Built **3 full-stack services** using **Spring & Flutter**
-- Established a collaborative dev culture with **code reviews & sprint planning**
+**Backend & Database**<br><br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+<br>
 
-## 🛠 Tech Stack
+### Get in Touch
+☕️ 서로의 관점을 나누며 함께 배울 수 있는 시간을 위해 커피챗을 열어둡니다. <br>
+커리어, 제품에 대한 고민이나 팀 합류, 협업 제안 등 어떤 이야기든 좋습니다. <br>
+일정을 신청해 주시면 확인 후 메일로 연락드리겠습니다.<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+[Coffee Chat 일정 잡기](https://calendly.com/haeunkim-on/coffee-chat) 
 
----
-
-## 🏆 Achievements
-- **Pre-Startup Package** - Konkuk University (Outline) (2024)
-- **TOPCIT Software Capability Certification** - Top Performer (2024)
-- **SW Festival Awards** - 1st Place (Marshmallow), 2nd Place (LittleDrop, Waco)
-
----
-
-## 📫 Get in Touch
-💌 Feel free to reach out via **[Email](mailto:haeunkim.on@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/haeunkkim/)**! 😊
+그 외 연락: **[Email](mailto:haeunkim.on@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/haeunkkim/)**! 😊
