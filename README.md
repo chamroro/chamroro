@@ -38,10 +38,10 @@
 <br>
 
 ### Get in Touch
-☕️ 서로의 관점을 나누며 함께 배울 수 있는 시간을 위해 커피챗을 열어둡니다. <br>
-커리어, 제품에 대한 고민이나 팀 합류, 협업 제안 등 어떤 이야기든 좋습니다. <br>
-일정을 신청해 주시면 확인 후 메일로 연락드리겠습니다.<br>
+☕️ 서로의 관점을 나누며 함께 배울 수 있는 시간을 위해 커피챗 신청을 받습니다. <br>
+커리어, 제품에 대한 고민이나 팀 합류, 협업 제안 등 어떤 이야기든 환영하며, 일정을 신청해 주시면 확인 후 메일로 연락드리겠습니다. ☺️<br>
+<br>
 
 [Coffee Chat 일정 잡기](https://calendly.com/haeunkim-on/coffee-chat) 
 
-그 외 연락: **[Email](mailto:haeunkim.on@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/haeunkkim/)**! 😊
+그 외 연락: **[Email](mailto:haeunkim.on@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/haeunkkim/)**! 
